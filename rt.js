@@ -1,7 +1,7 @@
 var start;
     function showShape() {
-        var left = Math.random() * 100;
-            var top = Math.random() * 100;
+        var left = Math.random() * 80;
+            var top = Math.random() * 80;
             var width = (Math.random() * 10) + 10;
             var col = "0123456789ABCDE";
             var color = "#";
